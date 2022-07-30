@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @javanmiller1994
 - 👀 I’m interested in looking to work in software engineering.
-- 🌱 I’m currently learning on broading my experience with C# and possibly javascript.
+- 🌱 I’m currently learning on broading my experience with C# and possibly javascript. I currently excel with Visual Basic (vb.net).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
